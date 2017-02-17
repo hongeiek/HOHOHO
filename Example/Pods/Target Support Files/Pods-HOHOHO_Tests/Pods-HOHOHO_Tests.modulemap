@@ -1,0 +1,6 @@
+framework module Pods_HOHOHO_Tests {
+  umbrella header "Pods-HOHOHO_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module HOHOHO {
+  umbrella header "HOHOHO-umbrella.h"
+
+  export *
+  module * { export * }
+}
